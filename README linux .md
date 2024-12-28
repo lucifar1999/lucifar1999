@@ -3,12 +3,13 @@
 1 - ls: list directory
 The ls command line utility lists all the files and directories under a specified directory. By default, ls uses the current directory and lists files and directories in alphabetical order by name. The ls command supports many flags that modify its behavior.
 
-syntax:- ls [option] ↵
+syntax:- ls [option]
 
 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭
-Screenshot 2024-12-25 210422 Screenshot 2024-12-25 205845 Screenshot 2024-12-25 205914 Screenshot 2024-12-25 205940 Screenshot 2024-12-25 210007 Screenshot 2024-12-25 210026
+
 
 2 - pwd: print working directory
+
 The pwd command writes to standard output the full path name of your current directory (from the root directory). All directories are separated by a / (slash). The root directory is represented by the first /, and the last directory named is your current directory.
 
 syntax:- pwd 
